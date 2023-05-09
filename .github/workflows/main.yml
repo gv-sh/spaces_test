@@ -6,5 +6,5 @@
     space_name: mathscapes
     space_region: nyc3
     access_key: gvsh
-    secret_key: DO00Z8X7UDDPXGYWJR6E
+    secret_key: ${{ gvsh }} 
     cdn_domain: https://mathscapes.nyc3.cdn.digitaloceanspaces.com
