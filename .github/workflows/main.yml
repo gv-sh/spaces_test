@@ -1,0 +1,10 @@
+- name: DigitalOcean Spaces Upload Action
+  uses: BetaHuhn/do-spaces-action@v2.0.41
+  with:
+    source: build
+    out_dir: test
+    space_name: mathscapes
+    space_region: nyc3
+    access_key: gvsh
+    secret_key: DO00Z8X7UDDPXGYWJR6E
+    cdn_domain: https://mathscapes.nyc3.cdn.digitaloceanspaces.com
