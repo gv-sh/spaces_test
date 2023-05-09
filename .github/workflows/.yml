@@ -1,2 +1,0 @@
-- name: DigitalOcean Spaces Upload Action
-  uses: BetaHuhn/do-spaces-action@v2.0.41
